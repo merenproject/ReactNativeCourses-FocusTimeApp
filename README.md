@@ -4,9 +4,9 @@ Link: https://snack.expo.io/@erenm20/focustime
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
-Expo go app for scan - Android: https://play.google.com/store/apps/details?id=host.exp.exponent&hl=tr&gl=US
+Expo go app for scan barcode - Android: https://play.google.com/store/apps/details?id=host.exp.exponent&hl=tr&gl=US
 
-Expo go app for scan - iOS:     https://apps.apple.com/tr/app/expo-go/id982107779?l=tr
+Expo go app for scan barcode - iOS:     https://apps.apple.com/tr/app/expo-go/id982107779?l=tr
 
 ![canvas](https://user-images.githubusercontent.com/81049094/119728634-5ff44c00-be7c-11eb-8fb1-38b9b716882e.png)
 
