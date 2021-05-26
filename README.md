@@ -1,6 +1,9 @@
+
 App coded in Expo.io Snacks
 
 Link: https://snack.expo.io/@erenm20/focustime
+
+![canvas](https://user-images.githubusercontent.com/81049094/119728634-5ff44c00-be7c-11eb-8fb1-38b9b716882e.png)
 
 # Sample Snack app
 
