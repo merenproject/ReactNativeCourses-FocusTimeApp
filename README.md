@@ -1,4 +1,3 @@
-
 App coded in Expo.io Snacks
 
 Link: https://snack.expo.io/@erenm20/focustime
